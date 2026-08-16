@@ -104,7 +104,7 @@
             "last_commit": "2026-08-13T15:56:51Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7808
+            "stars": 7807
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-13T13:05:08Z",
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
-            "stars": 1711
+            "stars": 1713
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2026-08-14T14:29:29Z",
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12302
+            "stars": 12301
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-08-14T14:22:37Z",
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9243
+            "stars": 9244
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2026-08-14T14:03:45Z",
             "owner": "firebase",
             "repo": "FirebaseUI-Android",
-            "stars": 4805
+            "stars": 4804
           }
         },
         {
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T08:44:18Z",
+            "last_commit": "2026-08-15T08:44:47Z",
             "owner": "firebase",
             "repo": "functions-samples",
             "stars": 12218
@@ -775,10 +775,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:58:29Z",
+            "last_commit": "2026-08-15T12:21:50Z",
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4455
+            "stars": 4454
           }
         },
         {
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:06:13.645Z",
+    "last_updated": "2026-08-16T02:13:59.641Z",
     "original_repository": "jthegedus/awesome-firebase",
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",
     "enhanced_repository": "enhansome/enhansome-firebase",
