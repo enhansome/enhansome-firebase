@@ -230,7 +230,7 @@
             "last_commit": "2024-07-25T02:12:41Z",
             "owner": "codediodeio",
             "repo": "sveltefire",
-            "stars": 1661
+            "stars": 1660
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2026-08-14T14:29:29Z",
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12301
+            "stars": 12302
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-08-14T14:22:37Z",
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9244
+            "stars": 9245
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2023-04-04T07:50:03Z",
             "owner": "EddyVerbruggen",
             "repo": "nativescript-plugin-firebase",
-            "stars": 1004
+            "stars": 1003
           }
         },
         {
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T08:44:47Z",
+            "last_commit": "2026-08-16T08:44:31Z",
             "owner": "firebase",
             "repo": "functions-samples",
             "stars": 12218
@@ -764,7 +764,7 @@
             "last_commit": "2024-11-23T19:46:34Z",
             "owner": "buildship-ai",
             "repo": "rowy",
-            "stars": 6836
+            "stars": 6834
           }
         },
         {
@@ -778,7 +778,7 @@
             "last_commit": "2026-08-15T12:21:50Z",
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4454
+            "stars": 4455
           }
         },
         {
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:13:59.641Z",
+    "last_updated": "2026-08-17T02:11:42.825Z",
     "original_repository": "jthegedus/awesome-firebase",
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",
     "enhanced_repository": "enhansome/enhansome-firebase",
