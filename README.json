@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 278130923,
             "language": "TypeScript",
             "last_commit": "2026-06-18T10:42:29Z",
             "owner": "invertase",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320384835,
             "language": "TypeScript",
             "last_commit": "2026-06-21T05:37:24Z",
             "owner": "FirebaseExtended",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372675120,
             "language": "JavaScript",
             "last_commit": "2026-05-14T10:25:01Z",
             "owner": "typesense",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348493901,
             "language": "TypeScript",
             "last_commit": "2026-07-07T13:46:22Z",
             "owner": "algolia",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304419950,
             "language": "JavaScript",
             "last_commit": "2024-01-24T03:26:06Z",
             "owner": "mailchimp",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262028272,
             "language": "TypeScript",
             "last_commit": "2024-04-26T11:16:31Z",
             "owner": "messagebird",
@@ -91,7 +97,7 @@
       "title": "Firebase Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49453413,
             "language": "TypeScript",
             "last_commit": "2026-08-18T18:12:05Z",
             "owner": "angular",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58566630,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:23:48Z",
             "owner": "firebase",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49235921,
             "language": "TypeScript",
             "last_commit": "2026-04-15T15:00:14Z",
             "owner": "vuejs",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9037027,
             "language": "JavaScript",
             "last_commit": "2024-09-11T07:21:02Z",
             "owner": "FirebaseExtended",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154829724,
             "language": "TypeScript",
             "last_commit": "2024-04-22T13:31:16Z",
             "owner": "CSFrequency",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19245530,
             "language": "TypeScript",
             "last_commit": "2026-08-17T19:34:49Z",
             "owner": "FirebaseExtended",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70860202,
             "language": "JavaScript",
             "last_commit": "2026-08-18T14:51:52Z",
             "owner": "prescottprue",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36767969,
             "language": "JavaScript",
             "last_commit": "2018-07-23T06:04:04Z",
             "owner": "tylermcginnis",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213915094,
             "language": "Kotlin",
             "last_commit": "2026-08-17T21:05:55Z",
             "owner": "GitLiveApp",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220999223,
             "language": "TypeScript",
             "last_commit": "2024-07-25T02:12:41Z",
             "owner": "codediodeio",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13108106,
             "language": "TypeScript",
             "last_commit": "2026-05-28T03:57:58Z",
             "owner": "firebase",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108690965,
             "language": "JavaScript",
             "last_commit": "2026-06-21T04:22:34Z",
             "owner": "firebase",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87239202,
             "language": "TypeScript",
             "last_commit": "2023-01-07T02:17:20Z",
             "owner": "codediodeio",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12445598,
             "language": "TypeScript",
             "last_commit": "2025-02-13T07:56:10Z",
             "owner": "FirebaseExtended",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124734843,
             "language": "TypeScript",
             "last_commit": "2026-02-18T09:07:01Z",
             "owner": "MichaelSolati",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59135852,
             "language": "HTML",
             "last_commit": "2020-08-10T13:47:01Z",
             "owner": "FirebaseExtended",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196349860,
             "language": "TypeScript",
             "last_commit": "2024-06-30T23:22:14Z",
             "owner": "kossnocorp",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15352495,
             "language": "Dart",
             "last_commit": "2022-05-06T20:18:07Z",
             "owner": "googlearchive",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123557208,
             "language": "TypeScript",
             "last_commit": "2019-05-08T14:38:51Z",
             "owner": "CannerCMS",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109278152,
             "language": "TypeScript",
             "last_commit": "2025-02-07T10:39:58Z",
             "owner": "IjzerenHein",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157123541,
             "language": "TypeScript",
             "last_commit": "2021-05-10T06:18:51Z",
             "owner": "jsayol",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135850027,
             "language": "JavaScript",
             "last_commit": "2023-07-18T21:09:50Z",
             "owner": "samuelgozi",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420363569,
             "language": "TypeScript",
             "last_commit": "2026-04-23T03:41:27Z",
             "owner": "tylim88",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 216875276,
             "language": "TypeScript",
             "last_commit": "2023-01-05T23:35:30Z",
             "owner": "FirebaseExtended",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 108337236,
             "language": "OCaml",
             "last_commit": "2019-10-19T18:46:05Z",
             "owner": "avohq",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 189029370,
             "language": "JavaScript",
             "last_commit": "2023-01-07T05:52:36Z",
             "owner": "martyan",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518636301,
             "language": "TypeScript",
             "last_commit": "2023-10-24T00:29:14Z",
             "owner": "tylim88",
@@ -475,7 +508,7 @@
       "title": "Web"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -484,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80616041,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:45:46Z",
+            "last_commit": "2026-08-19T07:43:41Z",
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12301
+            "stars": 12300
           }
         },
         {
@@ -498,8 +532,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202429703,
             "language": "Dart",
-            "last_commit": "2026-08-18T22:24:04Z",
+            "last_commit": "2026-08-19T11:46:18Z",
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9247
@@ -512,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59925269,
             "language": "Java",
             "last_commit": "2022-12-06T20:27:57Z",
             "owner": "evollu",
@@ -526,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46665106,
             "language": "TypeScript",
             "last_commit": "2023-04-04T07:50:03Z",
             "owner": "EddyVerbruggen",
@@ -540,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 117168142,
             "language": "JavaScript",
             "last_commit": "2021-08-27T19:05:39Z",
             "owner": "EvanBacon",
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217413716,
             "language": "Dart",
             "last_commit": "2023-02-18T14:15:09Z",
             "owner": "hukusuke1007",
@@ -568,142 +607,153 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145443972,
             "language": "Dart",
             "last_commit": "2019-09-07T16:13:45Z",
             "owner": "mattgraham1",
             "repo": "FlutterCalendar",
             "stars": 78
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🔌 Firebase UI",
+              "description": "Optimized UI components for Firebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38835213,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T11:47:05Z",
+                "owner": "firebase",
+                "repo": "FirebaseUI-Android",
+                "stars": 4805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔌 GeoFire for Java",
+              "description": "Realtime location queries with Firebase.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 21789245,
+                "language": "Java",
+                "last_commit": "2020-10-13T06:39:19Z",
+                "owner": "firebase",
+                "repo": "geofire-java",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔌 Firecoil",
+              "description": "Load images from GCS in your Android app using the image loading library Coil.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238922859,
+                "language": "Kotlin",
+                "last_commit": "2022-04-11T22:25:18Z",
+                "owner": "thatfiredev",
+                "repo": "firecoil",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔌 FireXtensions",
+              "description": "Unofficial Kotlin Extensions for the Firebase Android SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 140481078,
+                "language": "Kotlin",
+                "last_commit": "2020-05-22T19:04:28Z",
+                "owner": "thatfiredev",
+                "repo": "fireXtensions",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🔌 Firebase UI",
+              "description": "iOS UI bindings for Firebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38835282,
+                "language": "Swift",
+                "last_commit": "2026-08-11T10:48:22Z",
+                "owner": "firebase",
+                "repo": "FirebaseUI-iOS",
+                "stars": 1593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔌 GeoFire for Objective-C",
+              "description": "Realtime location queries with Firebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21611008,
+                "language": "Objective-C",
+                "last_commit": "2025-10-15T20:35:18Z",
+                "owner": "firebase",
+                "repo": "geofire-objc",
+                "stars": 448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "💡 MLKit - ARKit",
+              "description": "Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 160006840,
+                "language": "Swift",
+                "last_commit": "2020-11-17T15:42:12Z",
+                "owner": "FirebaseExtended",
+                "repo": "MLKit-ARKit",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "💡 MLKit - ARCore",
+              "description": "Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156410254,
+                "language": "Swift",
+                "last_commit": "2020-08-10T13:57:48Z",
+                "owner": "FirebaseExtended",
+                "repo": "MLKit-ARCore",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS"
         }
       ],
       "title": "Mobile"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🔌 Firebase UI",
-          "description": "Optimized UI components for Firebase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T15:20:51Z",
-            "owner": "firebase",
-            "repo": "FirebaseUI-Android",
-            "stars": 4805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔌 GeoFire for Java",
-          "description": "Realtime location queries with Firebase.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2020-10-13T06:39:19Z",
-            "owner": "firebase",
-            "repo": "geofire-java",
-            "stars": 669
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔌 Firecoil",
-          "description": "Load images from GCS in your Android app using the image loading library Coil.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-04-11T22:25:18Z",
-            "owner": "thatfiredev",
-            "repo": "firecoil",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔌 FireXtensions",
-          "description": "Unofficial Kotlin Extensions for the Firebase Android SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2020-05-22T19:04:28Z",
-            "owner": "thatfiredev",
-            "repo": "fireXtensions",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Android"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🔌 Firebase UI",
-          "description": "iOS UI bindings for Firebase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-11T10:48:22Z",
-            "owner": "firebase",
-            "repo": "FirebaseUI-iOS",
-            "stars": 1593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🔌 GeoFire for Objective-C",
-          "description": "Realtime location queries with Firebase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2025-10-15T20:35:18Z",
-            "owner": "firebase",
-            "repo": "geofire-objc",
-            "stars": 448
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "💡 MLKit - ARKit",
-          "description": "Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2020-11-17T15:42:12Z",
-            "owner": "FirebaseExtended",
-            "repo": "MLKit-ARKit",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "💡 MLKit - ARCore",
-          "description": "Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2020-08-10T13:57:48Z",
-            "owner": "FirebaseExtended",
-            "repo": "MLKit-ARCore",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "iOS"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -712,8 +762,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71274659,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:44:51Z",
+            "last_commit": "2026-08-19T08:45:28Z",
             "owner": "firebase",
             "repo": "functions-samples",
             "stars": 12218
@@ -726,6 +777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116941922,
             "language": "JavaScript",
             "last_commit": "2023-03-04T04:05:52Z",
             "owner": "jthegedus",
@@ -740,18 +792,79 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116941922,
             "language": "JavaScript",
             "last_commit": "2023-03-04T04:05:52Z",
             "owner": "jthegedus",
             "repo": "firebase-gcp-examples",
             "stars": 647
           }
+        },
+        {
+          "node_type": "item",
+          "title": "🔌 Pyrebase",
+          "description": "A simple python wrapper for the Firebase API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36919582,
+            "language": "Python",
+            "last_commit": "2024-05-14T09:55:38Z",
+            "owner": "thisbejim",
+            "repo": "Pyrebase",
+            "stars": 2074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔌 Integrify",
+          "description": "Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166447860,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T07:40:49Z",
+            "owner": "anishkny",
+            "repo": "integrify",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔌 Firestore Queue System",
+          "description": "Simple queue system using Firestore and Cloud Functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287066024,
+            "language": "TypeScript",
+            "last_commit": "2020-08-17T08:32:50Z",
+            "owner": "sbarbat",
+            "repo": "firestore-queuer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔌 Firecode",
+          "description": "A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 621755853,
+            "language": null,
+            "last_commit": "2024-01-11T13:17:45Z",
+            "owner": "kafkas",
+            "repo": "firecode",
+            "stars": 0
+          }
         }
       ],
       "title": "Server-side (Cloud Functions, BigQuery etc)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -760,6 +873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206509491,
             "language": "TypeScript",
             "last_commit": "2024-11-23T19:46:34Z",
             "owner": "buildship-ai",
@@ -774,8 +888,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15402300,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:06:53Z",
+            "last_commit": "2026-08-19T12:22:09Z",
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4456
@@ -788,6 +903,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232189634,
             "language": "TypeScript",
             "last_commit": "2026-08-12T00:17:06Z",
             "owner": "firebase",
@@ -802,6 +918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180382348,
             "language": "Haskell",
             "last_commit": "2023-04-10T20:34:55Z",
             "owner": "bijoutrouvaille",
@@ -816,6 +933,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172128103,
             "language": "Go",
             "last_commit": "2025-11-27T13:19:01Z",
             "owner": "sgarciac",
@@ -830,6 +948,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115555349,
             "language": "C++",
             "last_commit": "2021-09-14T20:15:44Z",
             "owner": "FirebaseExtended",
@@ -844,6 +963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160731746,
             "language": "TypeScript",
             "last_commit": "2023-11-27T14:23:05Z",
             "owner": "jsayol",
@@ -858,6 +978,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 107887760,
             "language": "TypeScript",
             "last_commit": "2020-04-29T00:34:41Z",
             "owner": "toba",
@@ -872,6 +993,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85018352,
             "language": "JavaScript",
             "last_commit": "2023-01-16T21:01:22Z",
             "owner": "prescottprue",
@@ -886,6 +1008,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202126749,
             "language": "TypeScript",
             "last_commit": "2023-09-27T21:07:52Z",
             "owner": "ChFlick",
@@ -900,6 +1023,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 202182731,
             "language": "TypeScript",
             "last_commit": "2022-12-12T19:01:44Z",
             "owner": "pheekus",
@@ -914,6 +1038,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161670378,
             "language": "JavaScript",
             "last_commit": "2022-12-09T19:54:05Z",
             "owner": "abeisgoat",
@@ -928,6 +1053,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247023215,
             "language": "Shell",
             "last_commit": "2024-02-06T17:40:07Z",
             "owner": "jthegedus",
@@ -942,6 +1068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145200417,
             "language": null,
             "last_commit": "2022-12-07T23:20:21Z",
             "owner": "PeterHdd",
@@ -953,7 +1080,7 @@
       "title": "CLI & Editor"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -962,6 +1089,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84221974,
             "language": "Kotlin",
             "last_commit": "2026-06-20T08:46:35Z",
             "owner": "Flank",
@@ -976,6 +1104,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77058582,
             "language": "C++",
             "last_commit": "2022-11-28T16:12:34Z",
             "owner": "larpon",
@@ -990,6 +1119,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136515695,
             "language": "C#",
             "last_commit": "2021-04-12T23:10:27Z",
             "owner": "FirebaseExtended",
@@ -1004,6 +1134,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 149908833,
             "language": "TypeScript",
             "last_commit": "2024-11-18T22:02:27Z",
             "owner": "scottlepp",
@@ -1018,6 +1149,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62622078,
             "language": "ActionScript",
             "last_commit": "2020-08-15T16:02:30Z",
             "owner": "myflashlab",
@@ -1027,26 +1159,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Follow"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:10:23.936Z",
+    "last_updated": "2026-08-19T12:32:38.544Z",
     "original_repository": "jthegedus/awesome-firebase",
+    "original_repository_id": 161275359,
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",
     "enhanced_repository": "enhansome/enhansome-firebase",
     "enhanced_repository_description": null,
