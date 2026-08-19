@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:45:12Z",
+            "last_commit": "2026-08-18T18:12:05Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7807
+            "stars": 7806
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:14:21Z",
+            "last_commit": "2026-08-18T16:23:48Z",
             "owner": "firebase",
             "repo": "firebaseui-web",
             "stars": 4874
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-17T19:34:49Z",
             "owner": "FirebaseExtended",
             "repo": "reactfire",
-            "stars": 3572
+            "stars": 3571
           }
         },
         {
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T22:12:05Z",
+            "last_commit": "2026-08-18T14:51:52Z",
             "owner": "prescottprue",
             "repo": "react-redux-firebase",
             "stars": 2533
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-17T21:05:55Z",
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
-            "stars": 1714
+            "stars": 1715
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2023-01-07T02:17:20Z",
             "owner": "codediodeio",
             "repo": "angular-firestarter",
-            "stars": 962
+            "stars": 961
           }
         },
         {
@@ -485,10 +485,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:04:15Z",
+            "last_commit": "2026-08-18T18:45:46Z",
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12302
+            "stars": 12301
           }
         },
         {
@@ -499,10 +499,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-17T13:25:22Z",
+            "last_commit": "2026-08-18T22:24:04Z",
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9246
+            "stars": 9247
           }
         },
         {
@@ -589,10 +589,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T01:55:38Z",
+            "last_commit": "2026-08-18T15:20:51Z",
             "owner": "firebase",
             "repo": "FirebaseUI-Android",
-            "stars": 4804
+            "stars": 4805
           }
         },
         {
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T08:44:35Z",
+            "last_commit": "2026-08-18T08:44:51Z",
             "owner": "firebase",
             "repo": "functions-samples",
             "stars": 12218
@@ -775,10 +775,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T01:10:59Z",
+            "last_commit": "2026-08-19T02:06:53Z",
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4455
+            "stars": 4456
           }
         },
         {
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:07:41.979Z",
+    "last_updated": "2026-08-19T02:10:23.936Z",
     "original_repository": "jthegedus/awesome-firebase",
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",
     "enhanced_repository": "enhansome/enhansome-firebase",
