@@ -108,7 +108,7 @@
             "archived": false,
             "id": 49453413,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:12:05Z",
+            "last_commit": "2026-08-20T18:31:27Z",
             "owner": "angular",
             "repo": "angularfire",
             "stars": 7806
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 58566630,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:23:48Z",
+            "last_commit": "2026-08-20T15:50:52Z",
             "owner": "firebase",
             "repo": "firebaseui-web",
             "stars": 4874
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 19245530,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T16:46:23Z",
+            "last_commit": "2026-08-20T21:08:54Z",
             "owner": "FirebaseExtended",
             "repo": "reactfire",
             "stars": 3571
@@ -519,7 +519,7 @@
             "archived": false,
             "id": 80616041,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T02:03:26Z",
+            "last_commit": "2026-08-20T22:55:41Z",
             "owner": "invertase",
             "repo": "react-native-firebase",
             "stars": 12300
@@ -534,7 +534,7 @@
             "archived": false,
             "id": 202429703,
             "language": "Dart",
-            "last_commit": "2026-08-19T21:12:59Z",
+            "last_commit": "2026-08-20T22:35:33Z",
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9247
@@ -764,10 +764,10 @@
             "archived": false,
             "id": 71274659,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T08:45:28Z",
+            "last_commit": "2026-08-20T08:44:39Z",
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12218
+            "stars": 12217
           }
         },
         {
@@ -824,7 +824,7 @@
             "archived": false,
             "id": 166447860,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:40:49Z",
+            "last_commit": "2026-08-20T09:55:57Z",
             "owner": "anishkny",
             "repo": "integrify",
             "stars": 110
@@ -890,7 +890,7 @@
             "archived": false,
             "id": 15402300,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T00:17:16Z",
+            "last_commit": "2026-08-21T01:03:16Z",
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4456
@@ -905,7 +905,7 @@
             "archived": false,
             "id": 232189634,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:16:53Z",
+            "last_commit": "2026-08-20T22:44:58Z",
             "owner": "firebase",
             "repo": "firebase-tools-ui",
             "stars": 291
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:08:54.870Z",
+    "last_updated": "2026-08-21T02:15:45.598Z",
     "original_repository": "jthegedus/awesome-firebase",
     "original_repository_id": 161275359,
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",
