@@ -764,7 +764,7 @@
             "archived": false,
             "id": 71274659,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T08:44:47Z",
+            "last_commit": "2026-08-25T04:01:11Z",
             "owner": "firebase",
             "repo": "functions-samples",
             "stars": 12219
@@ -890,7 +890,7 @@
             "archived": false,
             "id": 15402300,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:02:55Z",
+            "last_commit": "2026-08-25T05:23:00Z",
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4460
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:10:22.975Z",
+    "last_updated": "2026-08-25T06:10:29.212Z",
     "original_repository": "jthegedus/awesome-firebase",
     "original_repository_id": 161275359,
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",

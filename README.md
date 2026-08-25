@@ -137,7 +137,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
-* 💡 [Functions Samples](https://github.com/firebase/functions-samples) ⭐ 12,219 | 🐛 198 | 🌐 JavaScript | 📅 2026-08-24 - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
+* 💡 [Functions Samples](https://github.com/firebase/functions-samples) ⭐ 12,219 | 🐛 198 | 🌐 JavaScript | 📅 2026-08-25 - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
 * 💡 [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) ⭐ 647 | 🐛 48 | 🌐 JavaScript | 📅 2023-03-04 - Host an Express server on Cloud Functions.
 * 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) ⭐ 647 | 🐛 48 | 🌐 JavaScript | 📅 2023-03-04 - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 * 📖 [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) - Official Firebase Admin SDK Server Setup.
