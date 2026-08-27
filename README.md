@@ -64,7 +64,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 * 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) ⚠️ Archived - Official Stripe subscriptions and invoices extensions.
 * 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) ⚠️ Archived -  laboratory for new extensions created by Firebase.
-* 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) ⭐ 182 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-14 - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) ⭐ 26,481 | 🐛 873 | 🌐 C++ | 📅 2026-08-18, an OSS alternative to Algolia.
+* 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) ⭐ 182 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-14 - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) ⭐ 26,482 | 🐛 873 | 🌐 C++ | 📅 2026-08-18, an OSS alternative to Algolia.
 * 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) ⭐ 123 | 🐛 36 | 🌐 TypeScript | 📅 2026-07-07 - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
 * 🔧 [Mailchimp Extensions](https://github.com/mailchimp/Firebase) ⭐ 21 | 🐛 17 | 🌐 JavaScript | 📅 2024-01-24 - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
 * 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) ⭐ 12 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-26 - Official MessageBird extension to send messages via the MessageBird Converstations API.
@@ -73,8 +73,8 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 ## Web
 
 * 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) ⭐ 7,804 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-21 - Official library for Firebase and Angular.
-* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) ⭐ 4,872 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26 - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
-* 🔌 [VueFire](https://github.com/vuejs/vuefire) ⭐ 3,909 | 🐛 46 | 🌐 TypeScript | 📅 2026-04-15 - Firebase bindings for Vue.js.
+* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) ⭐ 4,870 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26 - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
+* 🔌 [VueFire](https://github.com/vuejs/vuefire) ⭐ 3,910 | 🐛 46 | 🌐 TypeScript | 📅 2026-04-15 - Firebase bindings for Vue.js.
 * 💡 [FirePad](https://github.com/FirebaseExtended/firepad) ⚠️ Archived - Collaborative Text Editor Powered by Firebase.
 * 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) ⭐ 3,633 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 - React Hooks for Firebase services.
 * 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) ⭐ 3,571 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-25 - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
@@ -104,7 +104,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Mobile
 
-* 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,301 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-27 - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
+* 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,300 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-27 - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
 * 🔌 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) ⭐ 9,251 | 🐛 64 | 🌐 Dart | 📅 2026-08-27 - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
 * 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) ⭐ 1,729 | 🐛 305 | 🌐 Java | 📅 2022-12-06 -
   React Native module for Firebase Cloud Messaging and local notification.
@@ -126,7 +126,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ### iOS
 
-* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) ⭐ 1,593 | 🐛 0 | 🌐 Swift | 📅 2026-08-26 - iOS UI bindings for Firebase.
+* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-ios) ⭐ 1,592 | 🐛 0 | 🌐 Swift | 📅 2026-08-26 - iOS UI bindings for Firebase.
 * 🔌 [GeoFire for Objective-C](https://github.com/firebase/geofire-objc) ⭐ 448 | 🐛 28 | 🌐 Objective-C | 📅 2025-10-15 - Realtime location queries with Firebase.
 * 💡 [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) ⚠️ Archived - Example detecting objects using Firebase ML Kit and tags them with 3D labels in Augmented Reality.
 * 💡 [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore) ⚠️ Archived - Example detecting objects and tags them with 3D labels in Augmented Reality. Uses Firebase ML Kit, ARCore and Firebase RTDB.

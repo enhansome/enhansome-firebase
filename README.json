@@ -126,7 +126,7 @@
             "last_commit": "2026-08-26T15:48:13Z",
             "owner": "firebase",
             "repo": "firebaseui-web",
-            "stars": 4872
+            "stars": 4870
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-04-15T15:00:14Z",
             "owner": "vuejs",
             "repo": "vuefire",
-            "stars": 3909
+            "stars": 3910
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-27T10:04:33Z",
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12301
+            "stars": 12300
           }
         },
         {
@@ -696,7 +696,7 @@
                 "last_commit": "2026-08-26T12:55:03Z",
                 "owner": "firebase",
                 "repo": "FirebaseUI-iOS",
-                "stars": 1593
+                "stars": 1592
               }
             },
             {
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:42:22.318Z",
+    "last_updated": "2026-08-27T11:37:25.185Z",
     "original_repository_info": {
       "archived": false,
       "id": 161275359,
