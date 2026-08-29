@@ -64,7 +64,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 * 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) ⚠️ Archived - Official Stripe subscriptions and invoices extensions.
 * 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) ⚠️ Archived -  laboratory for new extensions created by Firebase.
-* 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) ⭐ 182 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-14 - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) ⭐ 26,486 | 🐛 873 | 🌐 C++ | 📅 2026-08-18, an OSS alternative to Algolia.
+* 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) ⭐ 182 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-14 - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) ⭐ 26,487 | 🐛 873 | 🌐 C++ | 📅 2026-08-18, an OSS alternative to Algolia.
 * 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) ⭐ 123 | 🐛 36 | 🌐 TypeScript | 📅 2026-07-07 - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
 * 🔧 [Mailchimp Extensions](https://github.com/mailchimp/Firebase) ⭐ 21 | 🐛 17 | 🌐 JavaScript | 📅 2024-01-24 - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
 * 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) ⭐ 12 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-26 - Official MessageBird extension to send messages via the MessageBird Converstations API.
