@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repository of Firebase Extensions built by Stripe.",
+            "homepage": "https://firebase.google.com/products/extensions",
             "id": 278130923,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-18T10:42:29Z",
+            "open_issues": 163,
             "owner": "invertase",
             "repo": "stripe-firebase-extensions",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "firebase",
+              "firebase-auth",
+              "firebase-extensions",
+              "firebase-firestore",
+              "stripe",
+              "stripe-customer-portal",
+              "subscriptions"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -26,12 +39,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🧪 A laboratory for new extensions created by Firebase",
+            "homepage": "https://firebase.google.com/docs/extensions",
             "id": 320384835,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-21T05:37:24Z",
+            "open_issues": 33,
             "owner": "FirebaseExtended",
             "repo": "experimental-extensions",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "firebase",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -42,12 +63,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firebase Extension to automatically push Firestore documents to Typesense for full-text search with typo tolerance, faceting, and more",
+            "homepage": "https://extensions.dev/extensions/typesense/firestore-typesense-search",
             "id": 372675120,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T10:25:01Z",
+            "open_issues": 23,
             "owner": "typesense",
             "repo": "firestore-typesense-search",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "firebase",
+              "firebase-extensions",
+              "firebase-firestore",
+              "firebase-search",
+              "firestore",
+              "typesense"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 348493901,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T13:46:22Z",
+            "open_issues": 36,
             "owner": "algolia",
             "repo": "firestore-algolia-search",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -74,12 +112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IO-4458: product partnerships team",
+            "homepage": null,
             "id": 304419950,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-24T03:26:06Z",
+            "open_issues": 17,
             "owner": "mailchimp",
             "repo": "Firebase",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -90,12 +133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for MessageBird Firebase send message extension",
+            "homepage": null,
             "id": 262028272,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T11:16:31Z",
+            "open_issues": 11,
             "owner": "messagebird",
             "repo": "firestore-send-msg",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         }
@@ -112,12 +160,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular + Firebase = ❤️",
+            "homepage": "https://firebaseopensource.com/projects/angular/angularfire2",
             "id": 49453413,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T22:37:04Z",
+            "open_issues": 196,
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7804
+            "stars": 7804,
+            "topics": [
+              "angular",
+              "angularfire",
+              "cloud-firestore",
+              "cloud-functions",
+              "firebase",
+              "ngrx",
+              "notifications",
+              "offline-data",
+              "realtime",
+              "realtime-database",
+              "rxjs"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -128,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.",
+            "homepage": "https://firebase.google.com/",
             "id": 58566630,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T16:07:45Z",
+            "open_issues": 11,
             "owner": "firebase",
             "repo": "firebaseui-web",
-            "stars": 4871
+            "stars": 4871,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -144,12 +214,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Firebase bindings for Vue.js",
+            "homepage": "https://vuefire.vuejs.org",
             "id": 49235921,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T15:00:14Z",
+            "open_issues": 46,
             "owner": "vuejs",
             "repo": "vuefire",
-            "stars": 3910
+            "stars": 3910,
+            "topics": [
+              "database",
+              "firebase",
+              "firestore",
+              "nuxt",
+              "pinia",
+              "realtime",
+              "vue",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -160,12 +244,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collaborative Text Editor Powered by Firebase",
+            "homepage": null,
             "id": 9037027,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-11T07:21:02Z",
+            "open_issues": 105,
             "owner": "FirebaseExtended",
             "repo": "firepad",
-            "stars": 3874
+            "stars": 3874,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -176,12 +265,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks for Firebase.",
+            "homepage": null,
             "id": 154829724,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T13:31:16Z",
+            "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3633
+            "stars": 3633,
+            "topics": [
+              "firebase",
+              "firebase-auth",
+              "firebase-authentication",
+              "firebase-cloud-firestore",
+              "firebase-cloud-storage",
+              "firebase-database",
+              "firebase-firestore",
+              "firebase-realtime-database",
+              "firebase-storage",
+              "javascript",
+              "react",
+              "react-firebase-hooks",
+              "react-hooks",
+              "react-native",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -192,12 +302,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hooks, Context Providers, and Components that make it easy to interact with Firebase.",
+            "homepage": "https://firebaseopensource.com/projects/firebaseextended/reactfire/",
             "id": 19245530,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T00:43:03Z",
+            "open_issues": 50,
             "owner": "FirebaseExtended",
             "repo": "reactfire",
-            "stars": 3571
+            "stars": 3571,
+            "topics": [
+              "firebase",
+              "firebase-js-sdk",
+              "firestore",
+              "react",
+              "react-hooks",
+              "react-suspense",
+              "realtime-database"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -208,12 +331,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redux bindings for Firebase. Includes React Hooks and Higher Order Components.",
+            "homepage": "https://react-redux-firebase.com",
             "id": 70860202,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T03:10:27Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:10:14Z",
+            "open_issues": 134,
             "owner": "prescottprue",
             "repo": "react-redux-firebase",
-            "stars": 2533
+            "stars": 2533,
+            "topics": [
+              "firebase",
+              "react",
+              "react-bindings",
+              "redux",
+              "redux-bindings",
+              "redux-firebase",
+              "redux-observable",
+              "redux-thunk"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -224,12 +361,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: A Relay inspired library for building React.js + Firebase applications. :fire:",
+            "homepage": null,
             "id": 36767969,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-23T06:04:04Z",
+            "open_issues": 22,
             "owner": "tylermcginnis",
             "repo": "re-base",
-            "stars": 2102
+            "stars": 2102,
+            "topics": [
+              "firebase",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -240,12 +385,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kotlin-first SDK for Firebase",
+            "homepage": "https://gitliveapp.github.io/firebase-kotlin-sdk/",
             "id": 213915094,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T21:05:55Z",
+            "open_issues": 118,
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
-            "stars": 1720
+            "stars": 1720,
+            "topics": [
+              "firebase",
+              "firebase-auth",
+              "firebase-database",
+              "firebase-firestore",
+              "firebase-functions",
+              "kotlin",
+              "kotlin-coroutines",
+              "kotlin-multiplatform"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -256,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cybernetically enhanced Firebase apps",
+            "homepage": null,
             "id": 220999223,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-25T02:12:41Z",
+            "open_issues": 68,
             "owner": "codediodeio",
             "repo": "sveltefire",
-            "stars": 1659
+            "stars": 1659,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -272,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoFire for JavaScript - Realtime location queries with Firebase",
+            "homepage": null,
             "id": 13108106,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-28T03:57:58Z",
+            "open_issues": 68,
             "owner": "firebase",
             "repo": "geofire-js",
-            "stars": 1447
+            "stars": 1447,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -288,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Wrapper for firebaseUI Web",
+            "homepage": null,
             "id": 108690965,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-21T04:22:34Z",
+            "open_issues": 101,
             "owner": "firebase",
             "repo": "firebaseui-web-react",
-            "stars": 1291
+            "stars": 1291,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -304,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍱 :fire: Angular + Firebase Progressive Web App Starter",
+            "homepage": "https://firestarter.fireship.io/",
             "id": 87239202,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-07T02:17:20Z",
+            "open_issues": 45,
             "owner": "codediodeio",
             "repo": "angular-firestarter",
-            "stars": 961
+            "stars": 961,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -320,12 +499,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The officially supported adapter for using Firebase with Ember",
+            "homepage": "https://firebaseopensource.com/projects/firebaseextended/emberfire/",
             "id": 12445598,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-13T07:56:10Z",
+            "open_issues": 59,
             "owner": "FirebaseExtended",
             "repo": "emberfire",
-            "stars": 685
+            "stars": 685,
+            "topics": [
+              "ember-data",
+              "emberjs",
+              "firebase",
+              "firebase-sdk",
+              "firestore",
+              "google-analytics",
+              "javascript",
+              "messaging",
+              "performance-monitoring",
+              "realtime-database"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -336,12 +531,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Location-based querying and filtering using Firebase Firestore.",
+            "homepage": "https://geofirestore.com",
             "id": 124734843,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-18T09:07:01Z",
+            "open_issues": 12,
             "owner": "MichaelSolati",
             "repo": "geofirestore-js",
-            "stars": 507
+            "stars": 507,
+            "topics": [
+              "firebase",
+              "firebase-firestore",
+              "firestore",
+              "geofire",
+              "geofirestore",
+              "geohashing",
+              "geolocation",
+              "geoquery"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -352,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Polymer Web Components for Firebase",
+            "homepage": "https://www.webcomponents.org/element/firebase/polymerfire",
             "id": 59135852,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-08-10T13:47:01Z",
+            "open_issues": 111,
             "owner": "FirebaseExtended",
             "repo": "polymerfire",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -368,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦕 Type-safe TypeScript-first ODM for Firestore",
+            "homepage": "https://typesaurus.com",
             "id": 196349860,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-06-30T23:22:14Z",
+            "open_issues": 32,
             "owner": "kossnocorp",
             "repo": "typesaurus",
-            "stars": 442
+            "stars": 442,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -384,12 +603,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dart wrapper for Firebase",
+            "homepage": "https://pub.dev/packages/firebase",
             "id": 15352495,
             "language": "Dart",
+            "license": null,
             "last_commit": "2022-05-06T20:18:07Z",
+            "open_issues": 15,
             "owner": "googlearchive",
             "repo": "firebase-dart",
-            "stars": 403
+            "stars": 403,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -400,12 +624,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":fire: :link: apollo-link-firebase provides you a simple way to use Firebase with graphQL.",
+            "homepage": null,
             "id": 123557208,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-05-08T14:38:51Z",
+            "open_issues": 2,
             "owner": "CannerCMS",
             "repo": "apollo-link-firebase",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "apollo-client",
+              "apollo-link",
+              "firebase",
+              "graphql"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -416,12 +650,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Google Firestore in React with zero effort, using MobX 🤘",
+            "homepage": "https://ijzerenhein.github.io/firestorter",
             "id": 109278152,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-07T10:39:58Z",
+            "open_issues": 23,
             "owner": "IjzerenHein",
             "repo": "firestorter",
-            "stars": 378
+            "stars": 378,
+            "topics": [
+              "firestore-collection",
+              "firestore-mobx",
+              "firestore-models",
+              "firestore-react",
+              "firestoreter",
+              "mox-firestore",
+              "react-firestore"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -432,12 +679,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Query Firestore using SQL syntax",
+            "homepage": "https://devlibrary.withgoogle.com/products/firebase/repos/jsayol-FireSQL",
             "id": 157123541,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-10T06:18:51Z",
+            "open_issues": 21,
             "owner": "jsayol",
             "repo": "FireSQL",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "firebase",
+              "firestore",
+              "nodejs",
+              "sql",
+              "typescript-library"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -448,12 +706,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight cloud firestore library for the browser",
+            "homepage": null,
             "id": 135850027,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-18T21:09:50Z",
+            "open_issues": 7,
             "owner": "samuelgozi",
             "repo": "firebase-firestore-lite",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "es6",
+              "firebase-database",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -464,12 +731,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥High Precision Typescript Wrapper for Firestore Web, Providing Unparalleled Type Safe and Dev Experience",
+            "homepage": "https://firelordjs.com",
             "id": 420363569,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T03:41:27Z",
+            "open_issues": 4,
             "owner": "tylim88",
             "repo": "FirelordJS",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "firebase",
+              "firestore",
+              "generic-types",
+              "typescript",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -480,12 +758,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Conditionally load CSS from Firebase Remote Config",
+            "homepage": null,
             "id": 216875276,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-05T23:35:30Z",
+            "open_issues": 44,
             "owner": "FirebaseExtended",
             "repo": "remote-styles",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "css",
+              "firebase",
+              "firebase-remote-config"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -496,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 108337236,
             "language": "OCaml",
+            "license": "MIT",
             "last_commit": "2019-10-19T18:46:05Z",
+            "open_issues": 8,
             "owner": "avohq",
             "repo": "bs-firebase",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -512,12 +804,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minimalistic serverless boilerplate based on NextJS and Firebase 🔥",
+            "homepage": "https://nextbase-e74ee.firebaseapp.com",
             "id": 189029370,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-07T05:52:36Z",
+            "open_issues": 20,
             "owner": "martyan",
             "repo": "nextbase",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "authentication",
+              "boilerplate",
+              "firebase",
+              "full-stack",
+              "minimalistic",
+              "nextjs",
+              "react",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -528,12 +834,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥Surgical Precision Type Safe For Realtime Database Web, Write Realtime Database Code That Stands The Test Of Time",
+            "homepage": null,
             "id": 518636301,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-24T00:29:14Z",
+            "open_issues": 3,
             "owner": "tylim88",
             "repo": "FireSageJS",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "firebase",
+              "firebase-database",
+              "firebase-realtime-database",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         }
@@ -550,12 +866,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+            "homepage": "https://rnfirebase.io",
             "id": 80616041,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:26:51Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T15:59:47Z",
+            "open_issues": 48,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12301
+            "stars": 12301,
+            "topics": [
+              "analytics",
+              "android",
+              "auth",
+              "crashlytics",
+              "database",
+              "fcm",
+              "firebase",
+              "firestore",
+              "ios",
+              "javascript",
+              "push-notifications",
+              "react",
+              "react-hooks",
+              "react-native",
+              "react-native-app",
+              "realtime-database",
+              "remote-config",
+              "storage",
+              "transactions",
+              "web-sdk"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -566,12 +908,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+            "homepage": "https://firebase.google.com/docs/flutter/setup",
             "id": 202429703,
             "language": "Dart",
-            "last_commit": "2026-08-28T09:54:24Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T13:55:31Z",
+            "open_issues": 65,
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9249
+            "stars": 9251,
+            "topics": [
+              "dart",
+              "firebase",
+              "flutter",
+              "google"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -582,12 +934,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react native module for firebase cloud messaging and local notification",
+            "homepage": null,
             "id": 59925269,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-12-06T20:27:57Z",
+            "open_issues": 305,
             "owner": "evollu",
             "repo": "react-native-fcm",
-            "stars": 1729
+            "stars": 1729,
+            "topics": [
+              "android",
+              "fcm",
+              "firebase",
+              "ios",
+              "local-notifications",
+              "notifications"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -598,12 +962,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":fire: NativeScript plugin for Firebase",
+            "homepage": "https://firebase.google.com",
             "id": 46665106,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-04T07:50:03Z",
+            "open_issues": 593,
             "owner": "EddyVerbruggen",
             "repo": "nativescript-plugin-firebase",
-            "stars": 1003
+            "stars": 1003,
+            "topics": [
+              "admob",
+              "analytics",
+              "authentication",
+              "crashlytics",
+              "facebook",
+              "fcm",
+              "firebase",
+              "firestore",
+              "google",
+              "in-app-messaging",
+              "invites",
+              "machine-learning",
+              "mlkit",
+              "nativescript",
+              "pushnotifications",
+              "realtime-database",
+              "storage",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -614,12 +1002,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🔥 Native Firebase Expo App (iOS, Android) Demo for Firestore, Notifications, Analytics, Storage, Messaging, Database  🚨",
+            "homepage": null,
             "id": 117168142,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-08-27T19:05:39Z",
+            "open_issues": 20,
             "owner": "EvanBacon",
             "repo": "expo-native-firebase",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "android",
+              "app",
+              "boilerplate",
+              "cross-platform",
+              "es6",
+              "example-app",
+              "expo",
+              "firebase",
+              "firebase-database",
+              "ios",
+              "java",
+              "javascript",
+              "objective-c",
+              "quickstart",
+              "react-native",
+              "react-navigation",
+              "reactjs",
+              "social-network",
+              "template",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -630,12 +1044,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Flutter Library] Flamingo is a firebase firestore model framework library. 🐤",
+            "homepage": "https://pub.dev/packages/flamingo",
             "id": 217413716,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2023-02-18T14:15:09Z",
+            "open_issues": 5,
             "owner": "hukusuke1007",
             "repo": "flamingo",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "cloud-firestore",
+              "firebase-storage",
+              "firestore",
+              "flamingo",
+              "flutter",
+              "flutter-package",
+              "flutter-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -646,12 +1073,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calendar application writtern in flutter/dart.",
+            "homepage": null,
             "id": 145443972,
             "language": "Dart",
+            "license": null,
             "last_commit": "2019-09-07T16:13:45Z",
+            "open_issues": 1,
             "owner": "mattgraham1",
             "repo": "FlutterCalendar",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "android",
+              "firebase",
+              "flutter",
+              "flutter-apps",
+              "ios"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -664,12 +1102,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimized UI components for Firebase",
+                "homepage": "https://firebaseopensource.com/projects/firebase/firebaseui-android/",
                 "id": 38835213,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T11:03:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T15:06:24Z",
+                "open_issues": 13,
                 "owner": "firebase",
                 "repo": "FirebaseUI-Android",
-                "stars": 4807
+                "stars": 4807,
+                "topics": [
+                  "android",
+                  "firebase",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             },
@@ -680,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GeoFire for Java - Realtime location queries with Firebase",
+                "homepage": null,
                 "id": 21789245,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-10-13T06:39:19Z",
+                "open_issues": 20,
                 "owner": "firebase",
                 "repo": "geofire-java",
-                "stars": 669
+                "stars": 669,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             },
@@ -696,12 +1148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🖼 Display images stored in Cloud Storage for Firebase using Coil",
+                "homepage": "https://firebaseopensource.com/projects/rosariopfernandes/firecoil/",
                 "id": 238922859,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2022-04-11T22:25:18Z",
+                "open_issues": 2,
                 "owner": "thatfiredev",
                 "repo": "firecoil",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             },
@@ -712,12 +1169,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] 🔥 Unofficial Kotlin Extensions for the Firebase Android SDK.",
+                "homepage": "https://firebaseopensource.com/projects/rosariopfernandes/firextensions/",
                 "id": 140481078,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2020-05-22T19:04:28Z",
+                "open_issues": 2,
                 "owner": "thatfiredev",
                 "repo": "fireXtensions",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "firebase",
+                  "firebase-database",
+                  "firebase-firestore",
+                  "firestore",
+                  "hacktoberfest",
+                  "kotlin",
+                  "kotlin-android-extensions"
+                ]
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             }
@@ -735,12 +1207,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS UI bindings for Firebase.",
+                "homepage": null,
                 "id": 38835282,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T12:55:03Z",
+                "open_issues": 0,
                 "owner": "firebase",
                 "repo": "FirebaseUI-iOS",
-                "stars": 1592
+                "stars": 1592,
+                "topics": [
+                  "firebase",
+                  "ios"
+                ]
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             },
@@ -751,12 +1231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoFire for Objective-C - Realtime location queries with Firebase",
+                "homepage": null,
                 "id": 21611008,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2025-10-15T20:35:18Z",
+                "open_issues": 28,
                 "owner": "firebase",
                 "repo": "geofire-objc",
-                "stars": 448
+                "stars": 448,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             },
@@ -767,12 +1252,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 160006840,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-17T15:42:12Z",
+                "open_issues": 0,
                 "owner": "FirebaseExtended",
                 "repo": "MLKit-ARKit",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             },
@@ -783,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 156410254,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-08-10T13:57:48Z",
+                "open_issues": 0,
                 "owner": "FirebaseExtended",
                 "repo": "MLKit-ARCore",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
             }
@@ -810,12 +1305,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase",
+            "homepage": "https://firebase.google.com/docs/functions",
             "id": 71274659,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T08:44:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:57:14Z",
+            "open_issues": 198,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12219
+            "stars": 12219,
+            "topics": [
+              "faas",
+              "faas-platform",
+              "firebase",
+              "google",
+              "google-cloud-functions",
+              "google-cloud-platform",
+              "google-cloud-storage",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -826,12 +1335,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.",
+            "homepage": "https://medium.com/@jthegedus/table-of-contents-ec337953b39b",
             "id": 116941922,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T04:05:52Z",
+            "open_issues": 48,
             "owner": "jthegedus",
             "repo": "firebase-gcp-examples",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "berglas",
+              "cloud-functions",
+              "cloud-run",
+              "firebase",
+              "firebase-functions",
+              "gcp",
+              "google-cloud-platform",
+              "graphql",
+              "nextjs",
+              "nuxtjs",
+              "sapper",
+              "serverless",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -842,12 +1370,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Firebase app architectures, languages, tools & some GCP things! React w Next.js, Svelte w Sapper, Cloud Functions, Cloud Run.",
+            "homepage": "https://medium.com/@jthegedus/table-of-contents-ec337953b39b",
             "id": 116941922,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T04:05:52Z",
+            "open_issues": 48,
             "owner": "jthegedus",
             "repo": "firebase-gcp-examples",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "berglas",
+              "cloud-functions",
+              "cloud-run",
+              "firebase",
+              "firebase-functions",
+              "gcp",
+              "google-cloud-platform",
+              "graphql",
+              "nextjs",
+              "nuxtjs",
+              "sapper",
+              "serverless",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -858,12 +1405,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple python wrapper for the Firebase API.",
+            "homepage": null,
             "id": 36919582,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-14T09:55:38Z",
+            "open_issues": 237,
             "owner": "thisbejim",
             "repo": "Pyrebase",
-            "stars": 2073
+            "stars": 2073,
+            "topics": [
+              "firebase",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -874,12 +1429,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤝 Enforce referential and data integrity in Cloud Firestore using triggers",
+            "homepage": "https://firebaseopensource.com/projects/anishkny/integrify",
             "id": 166447860,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:25:56Z",
+            "open_issues": 12,
             "owner": "anishkny",
             "repo": "integrify",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "data-integrity",
+              "firebase",
+              "firebase-functions",
+              "firebase-trigger",
+              "firestore",
+              "referential-integrity",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -890,12 +1458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firebase Firestore Queue System",
+            "homepage": null,
             "id": 287066024,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-08-17T08:32:50Z",
+            "open_issues": 0,
             "owner": "sbarbat",
             "repo": "firestore-queuer",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -906,12 +1479,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.",
+            "homepage": null,
             "id": 621755853,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-11T13:17:45Z",
+            "open_issues": 0,
             "owner": "kafkas",
             "repo": "firecode",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         }
@@ -928,12 +1506,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.",
+            "homepage": "http://rowy.io",
             "id": 206509491,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-23T19:46:34Z",
+            "open_issues": 79,
             "owner": "buildship-ai",
             "repo": "rowy",
-            "stars": 6833
+            "stars": 6833,
+            "topics": [
+              "airtable",
+              "airtable-alternative",
+              "backend",
+              "cloud-functions",
+              "cloudfunctions",
+              "cms",
+              "cms-backend",
+              "firebase",
+              "firestore",
+              "gcp",
+              "google-cloud",
+              "internal-tools",
+              "low-code",
+              "lowcode",
+              "no-code",
+              "nocode",
+              "react",
+              "spreadsheet",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -944,12 +1547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Firebase Command Line Tools",
+            "homepage": null,
             "id": 15402300,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:35:55Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:23:46Z",
+            "open_issues": 994,
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4463
+            "stars": 4463,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -960,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local-first UI for Firebase Emulator Suite.",
+            "homepage": "https://firebase.googleblog.com/2020/05/local-firebase-emulator-ui.html",
             "id": 232189634,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T13:07:10Z",
+            "open_issues": 155,
             "owner": "firebase",
             "repo": "firebase-tools-ui",
-            "stars": 291
+            "stars": 291,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -976,12 +1589,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A concise and readable language for Firestore security rules, similar to Firebase Bolt.",
+            "homepage": null,
             "id": 180382348,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2023-04-10T20:34:55Z",
+            "open_issues": 17,
             "owner": "bijoutrouvaille",
             "repo": "fireward",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "firebase",
+              "firebase-firestore",
+              "haskell",
+              "parser-combinators",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -992,12 +1616,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fuego is a command line client for the firestore database (https://firebase.google.com/docs/firestore). ",
+            "homepage": null,
             "id": 172128103,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-27T13:19:01Z",
+            "open_issues": 6,
             "owner": "sgarciac",
             "repo": "fuego",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "cli",
+              "client",
+              "firebase",
+              "firestore",
+              "firestore-client",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1008,12 +1644,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is an experimental protoc plugin that generates Firebase Rules for Cloud Firestore based on Google's Protocol Buffer format. This allows you to easily validate your data in a platform independent manner.",
+            "homepage": null,
             "id": 115555349,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-14T20:15:44Z",
+            "open_issues": 6,
             "owner": "FirebaseExtended",
             "repo": "protobuf-rules-gen",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1024,12 +1665,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code extension to explore and manage your Firebase projects",
+            "homepage": "https://devlibrary.withgoogle.com/products/firebase/repos/jsayol-vscode-firebase-explorer",
             "id": 160731746,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-27T14:23:05Z",
+            "open_issues": 25,
             "owner": "jsayol",
             "repo": "vscode-firebase-explorer",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "firebase",
+              "productivity",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1040,12 +1691,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Visual Studio Code extension for syntax highlighting, hover help and code completions with Firestore security rules and index definition files",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=toba.vsfire",
             "id": 107887760,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-04-29T00:34:41Z",
+            "open_issues": 12,
             "owner": "toba",
             "repo": "vsfire",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "firebase",
+              "firebase-storage",
+              "vscode",
+              "vscode-language"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1056,12 +1717,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplified Firebase interaction for continuous integration",
+            "homepage": null,
             "id": 85018352,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-16T21:01:22Z",
+            "open_issues": 17,
             "owner": "prescottprue",
             "repo": "firebase-ci",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "continuous-integration",
+              "deployment",
+              "environments",
+              "firebase",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1072,12 +1744,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VS Code Firestore Rules Extension",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=ChFlick.firecode",
             "id": 202126749,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-09-27T21:07:52Z",
+            "open_issues": 8,
             "owner": "ChFlick",
             "repo": "firecode",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "firebase",
+              "firestore",
+              "firestore-rules",
+              "visual-studio",
+              "vscode-extension",
+              "vscode-language"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1088,12 +1772,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generate Cloud Firestore helper functions for schema validation using JSON Schema.",
+            "homepage": null,
             "id": 202182731,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-12T19:01:44Z",
+            "open_issues": 0,
             "owner": "pheekus",
             "repo": "svarog",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cli",
+              "firestore",
+              "jsonschema",
+              "security-rules"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1104,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firebase CLI for Windows",
+            "homepage": null,
             "id": 161670378,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-09T19:54:05Z",
+            "open_issues": 9,
             "owner": "abeisgoat",
             "repo": "firepit",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1120,12 +1819,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥Firebase CLI (firebase-tools) plugin for asdf version manager. Pin your Firebase CLI version for each project without Node.js or npm!",
+            "homepage": "https://asdf-vm.com/",
             "id": 247023215,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-02-06T17:40:07Z",
+            "open_issues": 3,
             "owner": "jthegedus",
             "repo": "asdf-firebase",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "asdf",
+              "asdf-firebase",
+              "asdf-plugin",
+              "asdf-vm",
+              "firebase",
+              "firebase-cli",
+              "firebase-sdk",
+              "firebase-tools",
+              "google"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1136,12 +1850,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contains the snippet for both Firebase and Firestore in VS Code editor ",
+            "homepage": "https://firebaseopensource.com/projects/peterhdd/firebase-firestore-snippets/",
             "id": 145200417,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-12-07T23:20:21Z",
+            "open_issues": 2,
             "owner": "PeterHdd",
             "repo": "firebase-firestore-snippets",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "firebase",
+              "firestore",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         }
@@ -1158,12 +1881,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab",
+            "homepage": "https://firebase.community/",
             "id": 84221974,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-20T08:46:35Z",
+            "open_issues": 74,
             "owner": "Flank",
             "repo": "flank",
-            "stars": 698
+            "stars": 698,
+            "topics": [
+              "android",
+              "earlgrey",
+              "espresso",
+              "firebase",
+              "flank",
+              "gcloud",
+              "gradle",
+              "instrumentation",
+              "ios",
+              "parallel",
+              "test",
+              "xcuitest"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1174,12 +1915,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An effort to bring Google's Firebase C++ API to Qt + QML",
+            "homepage": null,
             "id": 77058582,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-11-28T16:12:34Z",
+            "open_issues": 25,
             "owner": "larpon",
             "repo": "QtFirebase",
-            "stars": 291
+            "stars": 291,
+            "topics": [
+              "admob",
+              "analytics",
+              "android",
+              "auth",
+              "authentication",
+              "cloud-messaging",
+              "firebase",
+              "ios",
+              "messaging",
+              "plugin",
+              "qml",
+              "qt",
+              "qtfirebase",
+              "realtime-database",
+              "remote-config"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1190,12 +1952,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use Firebase tools to incorporate common features into your games!",
+            "homepage": null,
             "id": 136515695,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-12T23:10:27Z",
+            "open_issues": 9,
             "owner": "FirebaseExtended",
             "repo": "unity-solutions",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "firebase",
+              "game",
+              "game-dev",
+              "game-development",
+              "games",
+              "gaming",
+              "gcp",
+              "google-cloud",
+              "google-cloud-platform"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1206,12 +1983,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data",
+            "homepage": "https://firedrill-74829.web.app/",
             "id": 149908833,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-18T22:02:27Z",
+            "open_issues": 21,
             "owner": "scottlepp",
             "repo": "fire-drill",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "angular",
+              "angular-cli",
+              "angular-material",
+              "angular8",
+              "firebase",
+              "firebase-auth",
+              "firebase-data",
+              "firebase-firestore"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -1222,12 +2013,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API. ",
+            "homepage": null,
             "id": 62622078,
             "language": "ActionScript",
+            "license": null,
             "last_commit": "2020-08-15T16:02:30Z",
+            "open_issues": 0,
             "owner": "myflashlab",
             "repo": "Firebase-ANE",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "actionscript",
+              "adobe-air",
+              "adobeair",
+              "air",
+              "ane",
+              "firebase-ane"
+            ]
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         }
@@ -1236,15 +2039,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:20:00.021Z",
+    "last_updated": "2026-08-29T04:37:37.785Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
+      "homepage": "https://firebase.google.com/docs/",
       "id": 161275359,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2024-04-06T15:36:29Z",
+      "open_issues": 9,
       "owner": "jthegedus",
       "repo": "awesome-firebase",
-      "stars": 794
+      "stars": 794,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-functions",
+        "fcm",
+        "firebase",
+        "firestore",
+        "google-cloud",
+        "google-firebase",
+        "serverless"
+      ]
     },
     "original_repository_sha": "5055b341119af42077ee6e9064b136a04fdd79b0",
     "enhanced_repository": "enhansome/enhansome-firebase",
