@@ -64,7 +64,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 * 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) ⚠️ Archived - Official Stripe subscriptions and invoices extensions.
 * 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) ⚠️ Archived -  laboratory for new extensions created by Firebase.
-* 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) ⭐ 182 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-14 - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) ⭐ 26,543 | 🐛 879 | 🌐 C++ | 📅 2026-09-01, an OSS alternative to Algolia.
+* 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) ⭐ 182 | 🐛 23 | 🌐 JavaScript | 📅 2026-05-14 - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) ⭐ 26,545 | 🐛 879 | 🌐 C++ | 📅 2026-09-01, an OSS alternative to Algolia.
 * 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) ⭐ 123 | 🐛 36 | 🌐 TypeScript | 📅 2026-07-07 - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
 * 🔧 [Mailchimp Extensions](https://github.com/mailchimp/Firebase) ⭐ 22 | 🐛 17 | 🌐 JavaScript | 📅 2024-01-24 - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
 * 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) ⭐ 12 | 🐛 11 | 🌐 TypeScript | 📅 2024-04-26 - Official MessageBird extension to send messages via the MessageBird Converstations API.
@@ -72,19 +72,19 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Web
 
-* 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) ⭐ 7,805 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-02 - Official library for Firebase and Angular.
-* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) ⭐ 4,874 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
+* 🔌 [Angular Fire 2](https://github.com/angular/angularfire2) ⭐ 7,803 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-02 - Official library for Firebase and Angular.
+* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-web) ⭐ 4,875 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
 * 🔌 [VueFire](https://github.com/vuejs/vuefire) ⭐ 3,908 | 🐛 46 | 🌐 TypeScript | 📅 2026-04-15 - Firebase bindings for Vue.js.
 * 💡 [FirePad](https://github.com/FirebaseExtended/firepad) ⚠️ Archived - Collaborative Text Editor Powered by Firebase.
 * 🔌 [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) ⭐ 3,633 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 - React Hooks for Firebase services.
-* 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) ⭐ 3,571 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-10 - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
+* 🔌 [React Fire](https://github.com/FirebaseExtended/reactfire) ⭐ 3,571 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-11 - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 * 🔌 [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase) ⭐ 2,533 | 🐛 134 | 🌐 JavaScript | 📅 2026-09-10 - Redux bindings for Firebase. Includes Higher Order Component for use with React.
 * 🔌 [Re-base](https://github.com/tylermcginnis/re-base) ⭐ 2,100 | 🐛 22 | 🌐 JavaScript | 📅 2018-07-23 - Relay inspired library for building React.js + Firebase applications.
-* 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) ⭐ 1,727 | 🐛 116 | 🌐 Kotlin | 📅 2026-09-09 - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
+* 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) ⭐ 1,728 | 🐛 116 | 🌐 Kotlin | 📅 2026-09-09 - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
 * 🔌 [SvelteFire](https://github.com/codediodeio/sveltefire) ⭐ 1,659 | 🐛 68 | 🌐 TypeScript | 📅 2024-07-25 - Cybernetically enhanced Firebase apps.
 * 🔌 [GeoFire for JavaScript](https://github.com/firebase/geofire-js) ⭐ 1,447 | 🐛 67 | 🌐 TypeScript | 📅 2026-05-28 - Realtime location queries with Firebase.
 * 🔌 [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) ⭐ 1,291 | 🐛 101 | 🌐 JavaScript | 📅 2026-06-21 - React Wrapper for firebaseUI Web.
-* 💡 [Angular Firebase PWA](https://github.com/codediodeio/angular-firestarter) ⭐ 958 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-07 - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
+* 💡 [Angular Firebase PWA](https://github.com/codediodeio/angular-firestarter) ⭐ 957 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-07 - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 * 🔌 [Ember Fire](https://github.com/firebase/emberFire) ⚠️ Archived - Official Ember data adapter for Firebase.
 * 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) ⭐ 506 | 🐛 12 | 🌐 TypeScript | 📅 2026-02-18 - Location-based querying and filtering using Firebase Firestore.
 * 🔌 [PolymerFire](https://github.com/FirebaseExtended/polymerfire) ⚠️ Archived - Polymer Web Components for Firebase.
@@ -98,14 +98,14 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 * 🔧 [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/) ⚠️ Archived - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 * 🔌 [BuckleScript Bindings for Firebase](https://github.com/avohq/bs-firebase) ⚠️ Archived - BuckleScript bindings for Firebase for use in ReasonML projects.
 * 💡 [Nextbase](https://github.com/martyan/nextbase) ⚠️ Archived - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
-* 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2023-10-24 - Extreme Type Safe For Realtime Database Web.
+* 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2023-10-24 - Extreme Type Safe For Realtime Database Web.
 * 🔌 [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) - Query your Firebase data right into your statically generated pages with Gatsby.
 * 📖 [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - Automatic deletion of older versions of your site deployments.
 
 ## Mobile
 
-* 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,302 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-09 - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
-* 🔌 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) ⭐ 9,253 | 🐛 87 | 🌐 Dart | 📅 2026-09-09 - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
+* 🔌 [React Native Firebase](https://github.com/invertase/react-native-firebase) ⭐ 12,303 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-10 - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
+* 🔌 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) ⭐ 9,253 | 🐛 82 | 🌐 Dart | 📅 2026-09-10 - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
 * 🔌 [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) ⭐ 1,728 | 🐛 305 | 🌐 Java | 📅 2022-12-06 -
   React Native module for Firebase Cloud Messaging and local notification.
 * 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) ⚠️ Archived - NativeScript plugin for Firebase.
@@ -119,7 +119,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ### Android
 
-* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) ⭐ 4,805 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-10 - Optimized UI components for Firebase.
+* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) ⭐ 4,805 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-11 - Optimized UI components for Firebase.
 * 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) ⚠️ Archived - Realtime location queries with Firebase.
 * 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) ⭐ 44 | 🐛 2 | 🌐 Kotlin | 📅 2022-04-11 - Load images from GCS in your Android app using the image loading library Coil.
 * 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) ⚠️ Archived - Unofficial Kotlin Extensions for the Firebase Android SDK.
@@ -137,7 +137,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
-* 💡 [Functions Samples](https://github.com/firebase/functions-samples) ⭐ 12,218 | 🐛 198 | 🌐 JavaScript | 📅 2026-09-10 - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
+* 💡 [Functions Samples](https://github.com/firebase/functions-samples) ⭐ 12,218 | 🐛 199 | 🌐 JavaScript | 📅 2026-09-11 - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase.
 * 💡 [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) ⭐ 647 | 🐛 48 | 🌐 JavaScript | 📅 2023-03-04 - Host an Express server on Cloud Functions.
 * 💡 [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) ⭐ 647 | 🐛 48 | 🌐 JavaScript | 📅 2023-03-04 - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 * 📖 [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) - Official Firebase Admin SDK Server Setup.
@@ -157,8 +157,8 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## CLI & Editor
 
-* 🔧 [Firetable](https://github.com/AntlerVC/firetable) ⭐ 6,841 | 🐛 79 | 🌐 TypeScript | 📅 2024-11-23 - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
-* 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) ⭐ 4,465 | 🐛 1,006 | 🌐 TypeScript | 📅 2026-09-10 - The Firebase Command Line Tools.
+* 🔧 [Firetable](https://github.com/AntlerVC/firetable) ⭐ 6,841 | 🐛 80 | 🌐 TypeScript | 📅 2024-11-23 - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
+* 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) ⭐ 4,465 | 🐛 1,011 | 🌐 TypeScript | 📅 2026-09-11 - The Firebase Command Line Tools.
 * 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) ⭐ 291 | 🐛 156 | 🌐 TypeScript | 📅 2026-09-09 - Web UI for Firebase Emulator Suite.
 * 🔧 [Fireward](https://github.com/bijoutrouvaille/fireward) ⭐ 235 | 🐛 17 | 🌐 Haskell | 📅 2023-04-10 - Easy to use language for Firestore rules, similar to Firebase Bolt.
 * 🔧 [Fuego](https://github.com/sgarciac/fuego) ⭐ 225 | 🐛 6 | 🌐 Go | 📅 2025-11-27 - Firestore client CLI supporting document add/update/query with filtering and pagination.
@@ -223,8 +223,8 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors) ⭐ 795 | 🐛 9 | 📅 2024-04-06!
+[Thanks goes to these contributors](https://github.com/jthegedus/awesome-firebase/graphs/contributors) ⭐ 795 | 🐛 10 | 📅 2024-04-06!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
