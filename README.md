@@ -119,7 +119,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ### Android
 
-* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) ⭐ 4,806 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-01 - Optimized UI components for Firebase.
+* 🔌 [Firebase UI](https://github.com/firebase/firebaseui-android) ⭐ 4,807 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-01 - Optimized UI components for Firebase.
 * 🔌 [GeoFire for Java](https://github.com/firebase/geofire-java) ⚠️ Archived - Realtime location queries with Firebase.
 * 🔌 [Firecoil](https://github.com/rosariopfernandes/firecoil) ⭐ 44 | 🐛 2 | 🌐 Kotlin | 📅 2022-04-11 - Load images from GCS in your Android app using the image loading library Coil.
 * 🔌 [FireXtensions](https://github.com/rosariopfernandes/firextensions) ⚠️ Archived - Unofficial Kotlin Extensions for the Firebase Android SDK.
