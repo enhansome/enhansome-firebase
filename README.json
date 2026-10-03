@@ -19,7 +19,7 @@
             "open_issues": 163,
             "owner": "invertase",
             "repo": "stripe-firebase-extensions",
-            "stars": 480,
+            "stars": 479,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -166,10 +166,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T01:17:56Z",
-            "open_issues": 198,
+            "open_issues": 204,
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7801,
+            "stars": 7800,
             "topics": [
               "angular",
               "angularfire",
@@ -202,7 +202,7 @@
             "open_issues": 12,
             "owner": "firebase",
             "repo": "firebaseui-web",
-            "stars": 4876,
+            "stars": 4875,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -220,10 +220,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-15T15:00:14Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "vuejs",
             "repo": "vuefire",
-            "stars": 3908,
+            "stars": 3907,
             "topics": [
               "database",
               "firebase",
@@ -253,7 +253,7 @@
             "open_issues": 105,
             "owner": "FirebaseExtended",
             "repo": "firepad",
-            "stars": 3873,
+            "stars": 3872,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -274,7 +274,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3631,
+            "stars": 3630,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -370,7 +370,7 @@
             "open_issues": 22,
             "owner": "tylermcginnis",
             "repo": "re-base",
-            "stars": 2099,
+            "stars": 2098,
             "topics": [
               "firebase",
               "react"
@@ -391,10 +391,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T13:59:18Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
-            "stars": 1733,
+            "stars": 1732,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -445,7 +445,7 @@
             "open_issues": 67,
             "owner": "firebase",
             "repo": "geofire-js",
-            "stars": 1446,
+            "stars": 1447,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -466,7 +466,7 @@
             "open_issues": 101,
             "owner": "firebase",
             "repo": "firebaseui-web-react",
-            "stars": 1291,
+            "stars": 1290,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -570,7 +570,7 @@
             "open_issues": 111,
             "owner": "FirebaseExtended",
             "repo": "polymerfire",
-            "stars": 453,
+            "stars": 452,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -598,27 +598,6 @@
         },
         {
           "node_type": "item",
-          "title": "🔌 Firebase Dart",
-          "description": "Dart wrapper for Firebase.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Dart wrapper for Firebase",
-            "homepage": "https://pub.dev/packages/firebase",
-            "id": 15352495,
-            "language": "Dart",
-            "license": null,
-            "last_commit": "2022-05-06T20:18:07Z",
-            "open_issues": 15,
-            "owner": "googlearchive",
-            "repo": "firebase-dart",
-            "stars": 403,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T12:20:00.021Z"
-        },
-        {
-          "node_type": "item",
           "title": "🔌 Apollo Link Firebase",
           "description": "Provides a local GraphQL interface to RealtimeDB. DB syncs locally to device, Apollo Link provides querying into the local DB.",
           "children": [],
@@ -640,6 +619,27 @@
               "firebase",
               "graphql"
             ]
+          },
+          "first_seen": "2026-08-28T12:20:00.021Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🔌 Firebase Dart",
+          "description": "Dart wrapper for Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Dart wrapper for Firebase",
+            "homepage": "https://pub.dev/packages/firebase",
+            "id": 15352495,
+            "language": "Dart",
+            "license": null,
+            "last_commit": "2022-05-06T20:18:07Z",
+            "open_issues": 15,
+            "owner": "googlearchive",
+            "repo": "firebase-dart",
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
         },
@@ -871,11 +871,11 @@
             "id": 80616041,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:44:05Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-02T18:50:32Z",
+            "open_issues": 48,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12309,
+            "stars": 12307,
             "topics": [
               "analytics",
               "android",
@@ -913,11 +913,11 @@
             "id": 202429703,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T17:04:10Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-02T14:21:31Z",
+            "open_issues": 75,
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9261,
+            "stars": 9260,
             "topics": [
               "dart",
               "firebase",
@@ -971,7 +971,7 @@
             "open_issues": 593,
             "owner": "EddyVerbruggen",
             "repo": "nativescript-plugin-firebase",
-            "stars": 1003,
+            "stars": 1002,
             "topics": [
               "admob",
               "analytics",
@@ -1111,7 +1111,7 @@
                 "open_issues": 12,
                 "owner": "firebase",
                 "repo": "FirebaseUI-Android",
-                "stars": 4807,
+                "stars": 4806,
                 "topics": [
                   "android",
                   "firebase",
@@ -1216,7 +1216,7 @@
                 "open_issues": 5,
                 "owner": "firebase",
                 "repo": "FirebaseUI-iOS",
-                "stars": 1592,
+                "stars": 1591,
                 "topics": [
                   "firebase",
                   "ios"
@@ -1310,11 +1310,11 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:56:45Z",
+            "last_commit": "2026-10-03T03:56:40Z",
             "open_issues": 157,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12214,
+            "stars": 12213,
             "topics": [
               "faas",
               "faas-platform",
@@ -1552,11 +1552,11 @@
             "id": 15402300,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:36:42Z",
-            "open_issues": 1053,
+            "last_commit": "2026-10-03T01:22:18Z",
+            "open_issues": 1057,
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4474,
+            "stars": 4473,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:22:31.310Z",
+    "last_updated": "2026-10-03T04:43:08.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
