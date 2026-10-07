@@ -166,7 +166,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T03:47:52Z",
-            "open_issues": 194,
+            "open_issues": 193,
             "owner": "angular",
             "repo": "angularfire",
             "stars": 7800,
@@ -202,7 +202,7 @@
             "open_issues": 13,
             "owner": "firebase",
             "repo": "firebaseui-web",
-            "stars": 4877,
+            "stars": 4876,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -274,7 +274,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -390,7 +390,7 @@
             "id": 213915094,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:08:35Z",
+            "last_commit": "2026-10-07T05:32:36Z",
             "open_issues": 100,
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
@@ -487,7 +487,7 @@
             "open_issues": 45,
             "owner": "codediodeio",
             "repo": "angular-firestarter",
-            "stars": 955,
+            "stars": 954,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -875,7 +875,7 @@
             "open_issues": 48,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12313,
+            "stars": 12312,
             "topics": [
               "analytics",
               "android",
@@ -913,8 +913,8 @@
             "id": 202429703,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T04:50:23Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-06T18:04:31Z",
+            "open_issues": 82,
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9260,
@@ -1111,7 +1111,7 @@
                 "open_issues": 12,
                 "owner": "firebase",
                 "repo": "FirebaseUI-Android",
-                "stars": 4806,
+                "stars": 4804,
                 "topics": [
                   "android",
                   "firebase",
@@ -1310,11 +1310,11 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:44:17Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-07T03:56:29Z",
+            "open_issues": 129,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12213,
+            "stars": 12209,
             "topics": [
               "faas",
               "faas-platform",
@@ -1434,7 +1434,7 @@
             "id": 166447860,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:26:01Z",
+            "last_commit": "2026-10-06T18:51:00Z",
             "open_issues": 12,
             "owner": "anishkny",
             "repo": "integrify",
@@ -1515,7 +1515,7 @@
             "open_issues": 81,
             "owner": "buildship-ai",
             "repo": "rowy",
-            "stars": 6846,
+            "stars": 6847,
             "topics": [
               "airtable",
               "airtable-alternative",
@@ -1552,11 +1552,11 @@
             "id": 15402300,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:02:01Z",
-            "open_issues": 1064,
+            "last_commit": "2026-10-07T02:01:34Z",
+            "open_issues": 1058,
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4473,
+            "stars": 4472,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:19:47.376Z",
+    "last_updated": "2026-10-07T06:38:44.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
@@ -2051,7 +2051,7 @@
       "open_issues": 11,
       "owner": "jthegedus",
       "repo": "awesome-firebase",
-      "stars": 795,
+      "stars": 794,
       "topics": [
         "awesome",
         "awesome-list",
