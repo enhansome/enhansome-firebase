@@ -166,7 +166,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-10T06:01:12Z",
-            "open_issues": 190,
+            "open_issues": 189,
             "owner": "angular",
             "repo": "angularfire",
             "stars": 7799,
@@ -875,7 +875,7 @@
             "open_issues": 53,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12314,
+            "stars": 12315,
             "topics": [
               "analytics",
               "android",
@@ -914,7 +914,7 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-08T07:57:04Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9260,
@@ -1216,7 +1216,7 @@
                 "open_issues": 5,
                 "owner": "firebase",
                 "repo": "FirebaseUI-iOS",
-                "stars": 1591,
+                "stars": 1590,
                 "topics": [
                   "firebase",
                   "ios"
@@ -1310,11 +1310,11 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T03:56:34Z",
+            "last_commit": "2026-10-11T03:57:07Z",
             "open_issues": 5,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12212,
+            "stars": 12213,
             "topics": [
               "faas",
               "faas-platform",
@@ -1553,7 +1553,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-10T00:52:07Z",
-            "open_issues": 1046,
+            "open_issues": 1048,
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4471,
@@ -1574,7 +1574,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T03:52:05Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "firebase",
             "repo": "firebase-tools-ui",
             "stars": 293,
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:29:20.955Z",
+    "last_updated": "2026-10-11T06:35:09.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
