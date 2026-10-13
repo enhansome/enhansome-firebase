@@ -169,7 +169,7 @@
             "open_issues": 189,
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7799,
+            "stars": 7798,
             "topics": [
               "angular",
               "angularfire",
@@ -202,7 +202,7 @@
             "open_issues": 13,
             "owner": "firebase",
             "repo": "firebaseui-web",
-            "stars": 4877,
+            "stars": 4879,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -220,7 +220,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-15T15:00:14Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "vuejs",
             "repo": "vuefire",
             "stars": 3907,
@@ -274,7 +274,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -394,7 +394,7 @@
             "open_issues": 101,
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
-            "stars": 1732,
+            "stars": 1733,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -487,7 +487,7 @@
             "open_issues": 45,
             "owner": "codediodeio",
             "repo": "angular-firestarter",
-            "stars": 954,
+            "stars": 953,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -508,7 +508,7 @@
             "open_issues": 59,
             "owner": "FirebaseExtended",
             "repo": "emberfire",
-            "stars": 685,
+            "stars": 684,
             "topics": [
               "ember-data",
               "emberjs",
@@ -875,7 +875,7 @@
             "open_issues": 53,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12315,
+            "stars": 12316,
             "topics": [
               "analytics",
               "android",
@@ -913,8 +913,8 @@
             "id": 202429703,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T03:58:25Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-12T11:57:58Z",
+            "open_issues": 91,
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9259,
@@ -1212,8 +1212,8 @@
                 "id": 38835282,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T20:12:48Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-12T15:01:38Z",
+                "open_issues": 7,
                 "owner": "firebase",
                 "repo": "FirebaseUI-iOS",
                 "stars": 1590,
@@ -1310,11 +1310,11 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T03:56:46Z",
+            "last_commit": "2026-10-13T03:56:52Z",
             "open_issues": 5,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12212,
+            "stars": 12211,
             "topics": [
               "faas",
               "faas-platform",
@@ -1552,8 +1552,8 @@
             "id": 15402300,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T00:52:07Z",
-            "open_issues": 1049,
+            "last_commit": "2026-10-13T04:52:36Z",
+            "open_issues": 1048,
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4471,
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:40:29.780Z",
+    "last_updated": "2026-10-13T07:10:54.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
