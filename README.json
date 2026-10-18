@@ -875,7 +875,7 @@
             "open_issues": 35,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12318,
+            "stars": 12317,
             "topics": [
               "analytics",
               "android",
@@ -914,7 +914,7 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T23:51:27Z",
-            "open_issues": 79,
+            "open_issues": 78,
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9261,
@@ -1310,8 +1310,8 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T03:56:54Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-18T03:56:46Z",
+            "open_issues": 6,
             "owner": "firebase",
             "repo": "functions-samples",
             "stars": 12208,
@@ -1515,7 +1515,7 @@
             "open_issues": 81,
             "owner": "buildship-ai",
             "repo": "rowy",
-            "stars": 6844,
+            "stars": 6843,
             "topics": [
               "airtable",
               "airtable-alternative",
@@ -1552,8 +1552,8 @@
             "id": 15402300,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T05:02:57Z",
-            "open_issues": 1051,
+            "last_commit": "2026-10-17T20:06:17Z",
+            "open_issues": 1052,
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4475,
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:08:09.603Z",
+    "last_updated": "2026-10-18T05:13:52.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
