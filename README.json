@@ -166,7 +166,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-23T21:01:58Z",
-            "open_issues": 197,
+            "open_issues": 200,
             "owner": "angular",
             "repo": "angularfire",
             "stars": 7796,
@@ -223,7 +223,7 @@
             "open_issues": 51,
             "owner": "vuejs",
             "repo": "vuefire",
-            "stars": 3904,
+            "stars": 3905,
             "topics": [
               "database",
               "firebase",
@@ -445,7 +445,7 @@
             "open_issues": 67,
             "owner": "firebase",
             "repo": "geofire-js",
-            "stars": 1445,
+            "stars": 1446,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -871,11 +871,11 @@
             "id": 80616041,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T21:43:00Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-24T08:24:48Z",
+            "open_issues": 36,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12322,
+            "stars": 12323,
             "topics": [
               "analytics",
               "android",
@@ -917,7 +917,7 @@
             "open_issues": 82,
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9261,
+            "stars": 9263,
             "topics": [
               "dart",
               "firebase",
@@ -1310,11 +1310,11 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T03:56:42Z",
+            "last_commit": "2026-10-25T03:56:50Z",
             "open_issues": 9,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12207,
+            "stars": 12208,
             "topics": [
               "faas",
               "faas-platform",
@@ -1435,7 +1435,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-23T14:41:55Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "anishkny",
             "repo": "integrify",
             "stars": 110,
@@ -1553,10 +1553,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-24T00:09:25Z",
-            "open_issues": 1076,
+            "open_issues": 1077,
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4480,
+            "stars": 4481,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:09:31.304Z",
+    "last_updated": "2026-10-25T05:25:54.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
