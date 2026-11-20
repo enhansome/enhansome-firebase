@@ -169,7 +169,7 @@
             "open_issues": 167,
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7793,
+            "stars": 7794,
             "topics": [
               "angular",
               "angularfire",
@@ -198,11 +198,11 @@
             "id": 58566630,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:57:57Z",
+            "last_commit": "2026-11-19T15:47:00Z",
             "open_issues": 15,
             "owner": "firebase",
             "repo": "firebaseui-web",
-            "stars": 4888,
+            "stars": 4887,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -223,7 +223,7 @@
             "open_issues": 51,
             "owner": "vuejs",
             "repo": "vuefire",
-            "stars": 3903,
+            "stars": 3902,
             "topics": [
               "database",
               "firebase",
@@ -253,7 +253,7 @@
             "open_issues": 105,
             "owner": "FirebaseExtended",
             "repo": "firepad",
-            "stars": 3868,
+            "stars": 3867,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -274,7 +274,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3627,
+            "stars": 3626,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -336,7 +336,7 @@
             "id": 70860202,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:10:24Z",
+            "last_commit": "2026-11-20T07:37:50Z",
             "open_issues": 129,
             "owner": "prescottprue",
             "repo": "react-redux-firebase",
@@ -445,7 +445,7 @@
             "open_issues": 68,
             "owner": "firebase",
             "repo": "geofire-js",
-            "stars": 1446,
+            "stars": 1445,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -466,7 +466,7 @@
             "open_issues": 101,
             "owner": "firebase",
             "repo": "firebaseui-web-react",
-            "stars": 1291,
+            "stars": 1290,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -508,7 +508,7 @@
             "open_issues": 59,
             "owner": "FirebaseExtended",
             "repo": "emberfire",
-            "stars": 683,
+            "stars": 682,
             "topics": [
               "ember-data",
               "emberjs",
@@ -540,7 +540,7 @@
             "open_issues": 12,
             "owner": "MichaelSolati",
             "repo": "geofirestore-js",
-            "stars": 508,
+            "stars": 507,
             "topics": [
               "firebase",
               "firebase-firestore",
@@ -591,7 +591,7 @@
             "open_issues": 31,
             "owner": "kossnocorp",
             "repo": "typesaurus",
-            "stars": 445,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -871,11 +871,11 @@
             "id": 80616041,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T03:52:52Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-19T21:40:22Z",
+            "open_issues": 65,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12329,
+            "stars": 12328,
             "topics": [
               "analytics",
               "android",
@@ -913,11 +913,11 @@
             "id": 202429703,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T13:50:46Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-19T14:07:22Z",
+            "open_issues": 103,
             "owner": "firebase",
             "repo": "flutterfire",
-            "stars": 9278,
+            "stars": 9276,
             "topics": [
               "dart",
               "firebase",
@@ -943,7 +943,7 @@
             "open_issues": 305,
             "owner": "evollu",
             "repo": "react-native-fcm",
-            "stars": 1727,
+            "stars": 1726,
             "topics": [
               "android",
               "fcm",
@@ -971,7 +971,7 @@
             "open_issues": 592,
             "owner": "EddyVerbruggen",
             "repo": "nativescript-plugin-firebase",
-            "stars": 999,
+            "stars": 998,
             "topics": [
               "admob",
               "analytics",
@@ -1111,7 +1111,7 @@
                 "open_issues": 12,
                 "owner": "firebase",
                 "repo": "FirebaseUI-Android",
-                "stars": 4813,
+                "stars": 4812,
                 "topics": [
                   "android",
                   "firebase",
@@ -1136,7 +1136,7 @@
                 "open_issues": 20,
                 "owner": "firebase",
                 "repo": "geofire-java",
-                "stars": 670,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:20:00.021Z"
@@ -1310,7 +1310,7 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T04:49:28Z",
+            "last_commit": "2026-11-20T04:49:11Z",
             "open_issues": 15,
             "owner": "firebase",
             "repo": "functions-samples",
@@ -1344,7 +1344,7 @@
             "open_issues": 48,
             "owner": "jthegedus",
             "repo": "firebase-gcp-examples",
-            "stars": 648,
+            "stars": 646,
             "topics": [
               "berglas",
               "cloud-functions",
@@ -1379,7 +1379,7 @@
             "open_issues": 48,
             "owner": "jthegedus",
             "repo": "firebase-gcp-examples",
-            "stars": 648,
+            "stars": 646,
             "topics": [
               "berglas",
               "cloud-functions",
@@ -1414,7 +1414,7 @@
             "open_issues": 237,
             "owner": "thisbejim",
             "repo": "Pyrebase",
-            "stars": 2072,
+            "stars": 2071,
             "topics": [
               "firebase",
               "python"
@@ -1515,7 +1515,7 @@
             "open_issues": 93,
             "owner": "buildship-ai",
             "repo": "rowy",
-            "stars": 6847,
+            "stars": 6846,
             "topics": [
               "airtable",
               "airtable-alternative",
@@ -1552,8 +1552,8 @@
             "id": 15402300,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T06:23:53Z",
-            "open_issues": 1106,
+            "last_commit": "2026-11-19T23:37:06Z",
+            "open_issues": 1104,
             "owner": "firebase",
             "repo": "firebase-tools",
             "stars": 4489,
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:04:35.064Z",
+    "last_updated": "2026-11-20T07:51:19.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
