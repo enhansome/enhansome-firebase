@@ -274,7 +274,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3626,
+            "stars": 3625,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -394,7 +394,7 @@
             "open_issues": 94,
             "owner": "GitLiveApp",
             "repo": "firebase-kotlin-sdk",
-            "stars": 1734,
+            "stars": 1735,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -875,7 +875,7 @@
             "open_issues": 65,
             "owner": "invertase",
             "repo": "react-native-firebase",
-            "stars": 12328,
+            "stars": 12330,
             "topics": [
               "analytics",
               "android",
@@ -1111,7 +1111,7 @@
                 "open_issues": 12,
                 "owner": "firebase",
                 "repo": "FirebaseUI-Android",
-                "stars": 4812,
+                "stars": 4814,
                 "topics": [
                   "android",
                   "firebase",
@@ -1310,11 +1310,11 @@
             "id": 71274659,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T04:49:39Z",
+            "last_commit": "2026-11-22T04:50:14Z",
             "open_issues": 15,
             "owner": "firebase",
             "repo": "functions-samples",
-            "stars": 12215,
+            "stars": 12216,
             "topics": [
               "faas",
               "faas-platform",
@@ -1552,11 +1552,11 @@
             "id": 15402300,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T02:50:17Z",
-            "open_issues": 1104,
+            "last_commit": "2026-11-21T20:40:34Z",
+            "open_issues": 1105,
             "owner": "firebase",
             "repo": "firebase-tools",
-            "stars": 4489,
+            "stars": 4490,
             "topics": []
           },
           "first_seen": "2026-08-28T12:20:00.021Z"
@@ -2039,7 +2039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:47:43.189Z",
+    "last_updated": "2026-11-22T07:35:07.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 List of Firebase talks, tools, examples & articles! Translations in  🇬🇧 🇷🇺 Contributions welcome!",
